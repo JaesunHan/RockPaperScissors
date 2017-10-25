@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson4_2\lesson4_2\main.cpp(12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Lesson4_2.vcxproj -> C:\Users\kapoo\OneDrive\문서\Visual Studio 2017\Projects\Lesson4_2\Debug\Lesson4_2.exe
+  Lesson4_2.vcxproj -> C:\Users\kapoo\OneDrive\문서\Visual Studio 2017\Projects\Lesson4_2\Debug\Lesson4_2.pdb (Partial PDB)
